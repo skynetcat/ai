@@ -13,5 +13,5 @@
 1. [Meta Prompt Creator](misc/prompter)
 1. [General Purpose](misc/infobot)
 
-# Credits
+# Special Thanks:
 1. **Dan Koe** : for "Prompt & Template Library"
