@@ -27,5 +27,5 @@ I use [ChatterUI](https://github.com/Vali-98/ChatterUI):
 2. [Meta Prompt Creator](misc/prompter): A prompt to create more prompts!
 
 # Special Thanks:
-1. **Dan Koe** : for [Prompt & Template Library](https://stan.store/thedankoe/p/prompt-library)
+1. [Dan Koe](https://thedankoe.com/) : for [Prompt & Template Library](https://stan.store/thedankoe/p/prompt-library)
 2. Images are mostly made by ChatGPT.
