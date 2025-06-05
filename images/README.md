@@ -3,11 +3,11 @@
 | InfoBot | Summarizer |
 | ![An wise old man with a white beard in ghibli style](advisor.jpg) | ![A machine in ghibli style that prints a paper containing dashes](prompter.png) |
 | Advisor | Prompter |
-| ![X/Twitter logo](twitter.jpg) | ![A giant scroll floating on a platform in the garden at night](prompter.png) |
+| ![X/Twitter logo](twitter.jpg) | ![A giant scroll floating on a platform in the garden at night](thread.png) |
 | Twitter | Thread |
 | ![A treasure chest with golden letters flying from within](newsletter.png) | |
 | Newsletter | |
 
 # Sources:
-1. ChatGPT.
-2. X/Twitter logo is a stock image.
+- ChatGPT
+- X/Twitter logo is a stock image
