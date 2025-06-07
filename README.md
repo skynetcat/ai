@@ -1,6 +1,10 @@
 # Setup
+## Models
+The following models are used as GGUFs
+1. [Qwen3-1.7B-UD-Q4_0](https://huggingface.co/unsloth/Qwen3-1.7B-GGUF/blob/main/Qwen3-1.7B-Q4_0.gguf) from Unsloth
+2. [SmolVLM2-500M-Video-Instruct-f16](https://huggingface.co/ggml-org/SmolVLM2-500M-Video-Instruct-GGUF/blob/main/SmolVLM2-500M-Video-Instruct-f16.gguf) and the corresponding [mmproj-f16](https://huggingface.co/ggml-org/SmolVLM2-500M-Video-Instruct-GGUF/blob/main/mmproj-SmolVLM2-500M-Video-Instruct-f16.gguf) from ggml-org
 ## Android
-I use [ChatterUI](https://github.com/Vali-98/ChatterUI):
+App: [ChatterUI](https://github.com/Vali-98/ChatterUI):
 ### Steps
 1. Create a new character.
 2. Add prompt to "Description".
