@@ -10,6 +10,9 @@ I use [ChatterUI](https://github.com/Vali-98/ChatterUI):
 # Profile Images
 [They are available here](images/)
 
+# Samplers
+[They are available here](samplers/)
+
 # Prompts
 ## Learning
 1. [Summarizer](learn/summarizer): Summarizes long text and extracts useful information and ideas.
@@ -23,7 +26,7 @@ I use [ChatterUI](https://github.com/Vali-98/ChatterUI):
 3. [Fast YouTube Scripts, Newsletters, or Articles](content/newsletter)
 
 ## Misc.
-1. [General Purpose Info Bot](misc/infobot): Answers questions, uses ELI5 and gives structured output.
+1. [General Purpose Info Bot](misc/infobot): Answers questions in detail and gives structured output.
 2. [Meta Prompt Creator](misc/prompter): A prompt to create more prompts!
 
 # Special Thanks:
