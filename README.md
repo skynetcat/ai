@@ -10,6 +10,8 @@ App: [ChatterUI](https://github.com/Vali-98/ChatterUI)
 2. Add prompt to "Description".
 3. Add a friendly pfp.
 4. Save character.
+### Themes
+Available in [themes directory](themes/)
 
 # Images
 Friendly images I use for each prompt: [Available here](images/)
@@ -19,19 +21,19 @@ Settings I use for LLMs: [Available here](samplers/)
 
 # Prompts
 ## Learning
-[Summarizer](learn/summarizer): Summarizes long text and extracts useful information and ideas in a structured manner.
+[Summarizer](prompts/summarizer): Summarizes long text and extracts useful information and ideas in a structured manner.
 
 ## Life
-[Strategic Advisor](life/advisor): Helps greatly in self-development, planning and generating a clear vision.
+[Strategic Advisor](prompts/advisor): Helps greatly in self-development, planning and generating a clear vision.
 
 ## Content Creation
-1. [Social Posts (X)](content/twitter)
-2. [Thread or IG Carousel](content/thread)
+1. [Social Posts (X)](prompts/twitter)
+2. [Thread or IG Carousel](prompts/thread)
 3. [Fast YouTube Scripts, Newsletters, or Articles](content/newsletter)
 
 ## Misc.
-1. [General Purpose Info Bot](misc/infobot): Answers questions in detail and gives structured output.
-2. [Meta Prompt Creator](misc/prompter): A prompt to create more prompts!
+1. [General Purpose Info Bot](prompts/infobot): Answers questions in detail and gives structured output.
+2. [Meta Prompt Creator](prompts/prompter): A prompt to create more prompts!
 
 # Special Thanks:
 1. [Dan Koe](https://thedankoe.com/) : for [Prompt & Template Library](https://stan.store/thedankoe/p/prompt-library)
