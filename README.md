@@ -38,3 +38,4 @@ Settings I use for LLMs: [Available here](samplers/)
 # Special Thanks:
 1. [Dan Koe](https://thedankoe.com/) : for [Prompt & Template Library](https://stan.store/thedankoe/p/prompt-library)
 2. Images are made by ChatGPT or grabbed from stock photos.
+3. Some prompts are improved using ChatGPT.
